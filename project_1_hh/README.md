@@ -66,7 +66,7 @@ https://drive.google.com/file/d/1jv79YmrAqfnF5ufApEhmp5gsELwO_nhA/view?usp=shari
 2. Преобразование данных
 3. Исследование зависимостей в данных
 4. Очистка данных
-5. 
+
 
 :arrow_up:[К оглавлению](https://github.com/gleish/sf_ds/tree/main/project_1_hh/README.md/#Оглавление) 
 
